@@ -5,7 +5,7 @@ Machine learning to predict gender from a humor styles questionnarie.
 This dataset was part of the General Assembly Data Science Immersive course.
 
 ## Exploratory Data Anlysis
-1.Target Variable: Gender
+1. Target Variable: Gender
 2. Feature Variables:
 
 ## Data Processing
